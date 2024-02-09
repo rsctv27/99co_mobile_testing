@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login user" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-09T16:40:08" hostname="rics-MacBook-Air.local" time="28.867">
+  <properties/>
+  <testcase name="Login user with valid credential" classname="Login user" time="17.097"/>
+  <testcase name="Login user with empty credential" classname="Login user" time="11.77"/>
+  <system-out><![CDATA[
+@99co @scenario-1
+Scenario: Login user with valid credential        ?[90m# src/test/resources/features/scenario.feature:5?[0m
+  ?[32mGiven ?[0m?[32muser is on home page?[0m                      ?[90m# com.mobile.testing.steps.HomeSteps.is_on_home_page()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mWhen ?[0m?[32muser click home bottom bar?[0m                 ?[90m# com.mobile.testing.steps.HomeSteps.click_home_bottom_bar()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login bottom bar?[0m                 ?[90m# com.mobile.testing.steps.HomeSteps.click_login_bottom_bar()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser will be redirected to login page?[0m       ?[90m# com.mobile.testing.steps.LoginSteps.is_on_login_page()?[0m
+
+    Embedding Login user with valid credential [image/png 122132 bytes]
+
+  ?[32mAnd ?[0m?[32muser input email with "?[0m?[32m?[1mdummy99co@gmail.com?[0m?[32m"?[0m ?[90m# com.mobile.testing.steps.LoginSteps.input_email(java.lang.String)?[0m
+
+    Embedding Login user with valid credential [image/png 130876 bytes]
+
+  ?[32mAnd ?[0m?[32muser input password with "?[0m?[32m?[1mqwerty123?[0m?[32m"?[0m        ?[90m# com.mobile.testing.steps.LoginSteps.input_password(java.lang.String)?[0m
+
+    Embedding Login user with valid credential [image/png 125687 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login button?[0m                     ?[90m# com.mobile.testing.steps.LoginSteps.click_login_button()?[0m
+
+    Embedding Login user with valid credential [image/png 125687 bytes]
+
+  ?[32mThen ?[0m?[32muser should see success dialog pop up?[0m      ?[90m# com.mobile.testing.steps.LoginSteps.success_dialog_pop_up()?[0m
+
+    Embedding Login user with valid credential [image/png 96688 bytes]
+
+
+    Embedding Login user with valid credential [video/mp4 418463 bytes]
+
+
+@99co @scenario-2
+Scenario: Login user with empty credential         ?[90m# src/test/resources/features/scenario.feature:16?[0m
+  ?[32mGiven ?[0m?[32muser is on home page?[0m                       ?[90m# com.mobile.testing.steps.HomeSteps.is_on_home_page()?[0m
+
+    Embedding Login user with empty credential [image/png 158399 bytes]
+
+  ?[32mWhen ?[0m?[32muser click home bottom bar?[0m                  ?[90m# com.mobile.testing.steps.HomeSteps.click_home_bottom_bar()?[0m
+
+    Embedding Login user with empty credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login bottom bar?[0m                  ?[90m# com.mobile.testing.steps.HomeSteps.click_login_bottom_bar()?[0m
+
+    Embedding Login user with empty credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser will be redirected to login page?[0m        ?[90m# com.mobile.testing.steps.LoginSteps.is_on_login_page()?[0m
+
+    Embedding Login user with empty credential [image/png 122132 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login button?[0m                      ?[90m# com.mobile.testing.steps.LoginSteps.click_login_button()?[0m
+
+    Embedding Login user with empty credential [image/png 132332 bytes]
+
+  ?[32mThen ?[0m?[32muser should see error message input email?[0m   ?[90m# com.mobile.testing.steps.LoginSteps.error_message_input_email()?[0m
+
+    Embedding Login user with empty credential [image/png 132362 bytes]
+
+  ?[32mAnd ?[0m?[32muser should see error message input password?[0m ?[90m# com.mobile.testing.steps.LoginSteps.error_message_input_password()?[0m
+
+    Embedding Login user with empty credential [image/png 132362 bytes]
+
+
+    Embedding Login user with empty credential [video/mp4 456635 bytes]
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Feb 09, 2024 11:40:15 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 09, 2024 11:40:31 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

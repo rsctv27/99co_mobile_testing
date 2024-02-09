@@ -1,0 +1,58 @@
+plugins {
+    id 'java'
+    id "com.github.spacialcircumstances.gradle-cucumber-reporting" version "0.1.22"
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    implementation group: 'io.appium', name: 'java-client', version: '7.6.0'
+    implementation 'org.testng:testng:7.1.0'
+    testImplementation 'io.cucumber:cucumber-java:6.8.1'
+    testImplementation 'io.cucumber:cucumber-junit:6.8.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+configurations {
+    cucumberRuntime {
+        extendsFrom testImplementation
+    }
+}
+
+def tags = (findProperty('tags') == null) ? 'not @Ignore' : findProperty('tags') + ' and not @Ignore'
+
+tasks.register('cucumber') {
+    dependsOn assemble, testClasses
+    doLast {
+        javaexec {
+            main = "io.cucumber.core.cli.Main"
+            classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+            args = [
+                    '--plugin', 'pretty',
+                    '--plugin', 'html:target/cucumber-report.html',
+                    '--plugin', 'json:target/cucumber-report.json',
+                    '--glue', 'com.mobile.testing', 'src/test/resources',
+                    '--tags', tags
+            ]
+        }
+    }
+}
+
+cucumberReports {
+    outputDir = file('target/')
+    buildId = '0'
+    reports = files('target/cucumber-report.json')
+}

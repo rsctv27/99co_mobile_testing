@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a8a616a-120b-4f89-89db-70e80c0a3bc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.6/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android.wdio.native.app.v1.0.8.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/CucumberRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/PageFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/TestFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/page_objects/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/page_objects/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/page_objects/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/steps/HomeSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/steps/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/mobile/testing/steps/LoginSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/99co_mobile_testing-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Login#20user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.mobile.testing.CucumberRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.mobile.testing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/test/features/scenario.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Login#20user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.mobile.testing.CucumberRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/PageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/TestFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/page_objects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/page_objects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/page_objects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/steps/HomeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobile/testing/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/scenario.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1004696529.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1007815389.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1040769735.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1049484079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1081201570.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1104697292.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1125239485.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1128207249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1227273959.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1270696791.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1324002207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1465051904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-148094093.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1637711063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1639006321.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1644780999.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1676290164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1693820385.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1719136361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1765299306.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1767890656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1809176273.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1826601063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1864413023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1915023419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1927779758.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1930429508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1945532032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1961527638.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-1997729947.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-20069565.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-2018970630.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-2032388074.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-2033306568.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-2074017819.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-250959960.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-286561877.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-293244048.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-304927425.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-327052987.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-451012123.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-461575653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-494234726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-533998887.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-544123095.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-592925512.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-600468297.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-66249563.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-690857160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-733882760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-753986406.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-815861676.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-882476852.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-97023359.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1009731653.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1066065469.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1071513517.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1142995248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1144075969.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1154297726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1175381498.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1198188540.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1203965510.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_121772858.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1257255571.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1333090131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_148035362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1589339393.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1727521005.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1756733847.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1846181199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1878341429.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1881964714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_189227026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1907150175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1977453673.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_1998857961.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_2019172168.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_2101860294.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_2110444158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_2118011196.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_25308103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_254115779.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_292508343.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_304987786.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_329295633.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_330522710.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_372474122.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_414369362.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_447122028.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_447214433.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_488230192.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_510227507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_511193496.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_565873247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_588419333.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_781066312.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_794991880.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_818780284.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_823145963.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_832706513.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_906158422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_933000897.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_960125243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_1826866379.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2208345035.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_3364191732.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_3957275122.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_795051379.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_795051380.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/recording.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2c82hcZZM9MitK2swlcJG9u1jLH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ric/Documents/99co_mobile_testing",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Feature: scenario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/scenario.feature" />
+      <option name="GLUE" value="com.mobile.testing.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="99co_mobile_testing.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: scenario" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: scenario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a8a616a-120b-4f89-89db-70e80c0a3bc3" name="Changes" comment="" />
+      <created>1707479004878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707479004878</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class Login user</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class Login user</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/default-package.html">default-package</a> &gt; Login user</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">2</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">28.867s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+<li>
+<a href="#tab2">Standard error</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">Login user with empty credential</td>
+<td class="success">11.770s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Login user with valid credential</td>
+<td class="success">17.097s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>
+@99co @scenario-1
+Scenario: Login user with valid credential        ?[90m# src/test/resources/features/scenario.feature:5?[0m
+  ?[32mGiven ?[0m?[32muser is on home page?[0m                      ?[90m# com.mobile.testing.steps.HomeSteps.is_on_home_page()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mWhen ?[0m?[32muser click home bottom bar?[0m                 ?[90m# com.mobile.testing.steps.HomeSteps.click_home_bottom_bar()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login bottom bar?[0m                 ?[90m# com.mobile.testing.steps.HomeSteps.click_login_bottom_bar()?[0m
+
+    Embedding Login user with valid credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser will be redirected to login page?[0m       ?[90m# com.mobile.testing.steps.LoginSteps.is_on_login_page()?[0m
+
+    Embedding Login user with valid credential [image/png 122132 bytes]
+
+  ?[32mAnd ?[0m?[32muser input email with &quot;?[0m?[32m?[1mdummy99co@gmail.com?[0m?[32m&quot;?[0m ?[90m# com.mobile.testing.steps.LoginSteps.input_email(java.lang.String)?[0m
+
+    Embedding Login user with valid credential [image/png 130876 bytes]
+
+  ?[32mAnd ?[0m?[32muser input password with &quot;?[0m?[32m?[1mqwerty123?[0m?[32m&quot;?[0m        ?[90m# com.mobile.testing.steps.LoginSteps.input_password(java.lang.String)?[0m
+
+    Embedding Login user with valid credential [image/png 125687 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login button?[0m                     ?[90m# com.mobile.testing.steps.LoginSteps.click_login_button()?[0m
+
+    Embedding Login user with valid credential [image/png 125687 bytes]
+
+  ?[32mThen ?[0m?[32muser should see success dialog pop up?[0m      ?[90m# com.mobile.testing.steps.LoginSteps.success_dialog_pop_up()?[0m
+
+    Embedding Login user with valid credential [image/png 96688 bytes]
+
+
+    Embedding Login user with valid credential [video/mp4 418463 bytes]
+
+
+@99co @scenario-2
+Scenario: Login user with empty credential         ?[90m# src/test/resources/features/scenario.feature:16?[0m
+  ?[32mGiven ?[0m?[32muser is on home page?[0m                       ?[90m# com.mobile.testing.steps.HomeSteps.is_on_home_page()?[0m
+
+    Embedding Login user with empty credential [image/png 158399 bytes]
+
+  ?[32mWhen ?[0m?[32muser click home bottom bar?[0m                  ?[90m# com.mobile.testing.steps.HomeSteps.click_home_bottom_bar()?[0m
+
+    Embedding Login user with empty credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login bottom bar?[0m                  ?[90m# com.mobile.testing.steps.HomeSteps.click_login_bottom_bar()?[0m
+
+    Embedding Login user with empty credential [image/png 158379 bytes]
+
+  ?[32mAnd ?[0m?[32muser will be redirected to login page?[0m        ?[90m# com.mobile.testing.steps.LoginSteps.is_on_login_page()?[0m
+
+    Embedding Login user with empty credential [image/png 122132 bytes]
+
+  ?[32mAnd ?[0m?[32muser click login button?[0m                      ?[90m# com.mobile.testing.steps.LoginSteps.click_login_button()?[0m
+
+    Embedding Login user with empty credential [image/png 132332 bytes]
+
+  ?[32mThen ?[0m?[32muser should see error message input email?[0m   ?[90m# com.mobile.testing.steps.LoginSteps.error_message_input_email()?[0m
+
+    Embedding Login user with empty credential [image/png 132362 bytes]
+
+  ?[32mAnd ?[0m?[32muser should see error message input password?[0m ?[90m# com.mobile.testing.steps.LoginSteps.error_message_input_password()?[0m
+
+    Embedding Login user with empty credential [image/png 132362 bytes]
+
+
+    Embedding Login user with empty credential [video/mp4 456635 bytes]
+
+</pre>
+</span>
+</div>
+<div id="tab2" class="tab">
+<h2>Standard error</h2>
+<span class="code">
+<pre>SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Feb 09, 2024 11:40:15 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Feb 09, 2024 11:40:31 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 7.6</a> at Feb 9, 2024, 11:40:37 PM</p>
+</div>
+</div>
+</body>
+</html>
